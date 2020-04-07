@@ -16,7 +16,7 @@ apps can be just as robust and powerful, if not more so.
 
 For the most part, Ruby CLI apps tend to start the same way - typing `ruby`
 followed by a relative path to a Ruby file. In a complex application, though,
-which file should be run? In addition to this, when run, how to we ensure all
+which file should be run? In addition to this, when run, how do we ensure all
 our necessary files are required?
 
 There are two common conventions we're going to look at in this lesson that
